@@ -1,2 +1,4 @@
-# NYCU-ICLAB-2024-Spring
- ICLAB 2024 Spring Lab架構圖&amp;演算法分享
+# NYCU-ICLAB-2024-Spring Lab 分享
+ 若有更好的想法，歡迎討論
+ a0921338454@gamil.com
+# 
