@@ -3,7 +3,6 @@
 2. [課程介紹](#課程介紹)
 3. [前言](#前言)
 4. [背景](#背景)
-5. [主觀聲明](#主觀聲明)
 
 ## 摘要
 ##### 想說的話
@@ -89,5 +88,13 @@
 |[Midtern Project](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Midterm_Project_iclab065> "Mycode/MP")|Maze Router Accelerator|68.50%|
 |[Final Project](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Final_Project> "Mycode/FP")|single core CPU|67.72%|
 
-# 背景
-# 排名
+## 背景
+##### 在 iclab 之前修過哪些課
+- 電子碩-SOC 系統晶片設計 
+- 電子碩-CA 計算機結構   
+- 電控碩-VLSI 超大型積體電路設計
+- 電子碩-DIC 數位積體電路
+- 電子碩-MLIC 機器學習智能晶片設計
+- 電控碩-AFPGA 進階可程式邏輯系統設計與應用
+- 張添烜教授數位電路與系統的YT影片 (大推)
+
