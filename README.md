@@ -71,22 +71,22 @@
 ##### 課程實驗
 | Lab | Topic | Pass Rate |
 |:--|:--:|:--:|
-|[Lab01](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab048> "Mycode/Lab01")|Code Calculator|89.76%|
-|[Lab02](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab048> "Mycode/Lab02")|Enigma Machine|85.83%|
-|[Lab03](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab048> "Mycode/Lab03")|AXI-SPI DataBridge|75.59%|
-|[Lab04](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab048> "Mycode/Lab04")|Convolution Neural Network|74.80%|
-|[Lab05](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab048> "Mycode/Lab05")|Matrix convolution, max pooling and transposed convolution|59.06%|
-|[Lab06](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab048> "Mycode/Lab06")|Huffman Code Operation|77.95%|
-|[Lab07](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab048> "Mycode/Lab07")|Matrix Multiplication with Clock Domain Crossing|74.80%|
-|[Lab08](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab048> "Mycode/Lab08")|Design: Tea House|66.14%|
-|[Lab09](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab048> "Mycode/Lab09")|Verification: Tea House|66.14%|
-|[Lab10](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab048> "Mycode/Lab10")|Formal Verification|76.38%|
-|[Lab11](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab048> "Mycode/Lab11")|Low power design: Siamese Neural Network|67.72%|
-|[Lab12](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab048> "Mycode/Lab12")|APR: Matrix convolution, max pooling and transposed convolution|68.50%|
-|[Lab13](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab048> "Mycode/Lab13")|Train Tour APRII|68.50%|
-|[Online Test](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab048> "Mycode/OT")|Infix to prefix convertor and prefix evaluation|2.36%|
-|[Midtern Project](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab048> "Mycode/MP")|Maze Router Accelerator|68.50%|
-|[Final Project](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab048> "Mycode/FP")|single core CPU|67.72%|
+|[Lab01](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Lab01_iclab048> "Mycode/Lab01")|Code Calculator|89.76%|
+|[Lab02](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Lab02_iclab048> "Mycode/Lab02")|Enigma Machine|85.83%|
+|[Lab03](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Lab03_iclab048> "Mycode/Lab03")|AXI-SPI DataBridge|75.59%|
+|[Lab04](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Lab04_iclab048> "Mycode/Lab04")|Convolution Neural Network|74.80%|
+|[Lab05](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Lab05_iclab048> "Mycode/Lab05")|Matrix convolution, max pooling and transposed convolution|59.06%|
+|[Lab06](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Lab06_iclab048> "Mycode/Lab06")|Huffman Code Operation|77.95%|
+|[Lab07](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Lab07_iclab048> "Mycode/Lab07")|Matrix Multiplication with Clock Domain Crossing|74.80%|
+|[Lab08](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Lab08_iclab048> "Mycode/Lab08")|Design: Tea House|66.14%|
+|[Lab09](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Lab09_iclab048> "Mycode/Lab09")|Verification: Tea House|66.14%|
+|[Lab10](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Lab10_iclab048> "Mycode/Lab10")|Formal Verification|76.38%|
+|[Lab11](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Lab11_iclab048> "Mycode/Lab11")|Low power design: Siamese Neural Network|67.72%|
+|[Lab12](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Lab12_iclab048> "Mycode/Lab12")|APR: Matrix convolution, max pooling and transposed convolution|68.50%|
+|[Lab13](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Lab13_iclab048> "Mycode/Lab13")|Train Tour APRII|68.50%|
+|[Online Test](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/OT_iclab048> "Mycode/OT")|Infix to prefix convertor and prefix evaluation|2.36%|
+|[Midtern Project](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Midterm_Project_iclab048> "Mycode/MP")|Maze Router Accelerator|68.50%|
+|[Final Project](<https://github.com/EENemo/NYCU-ICLAB-2024-Spring/tree/main/Final_Project_iclab048> "Mycode/FP")|single core CPU|67.72%|
 
 ## 背景
 ##### 在 iclab 之前修過哪些課
